@@ -1,0 +1,164 @@
+html {
+	position: relative;
+  	min-height: 100%;
+}
+body {
+	margin-bottom: 222px;
+}
+.starter-template {
+padding: 3rem 1.5rem;
+text-align: center;
+}
+.margin_0_auto_centering {
+	margin: 0 auto;
+}
+.container {
+	padding-left: 0;
+	padding-right: 0;
+}
+.bg-custom {
+	background-color: #04324f;
+	border-radius: 0;
+}
+.white {
+	color: white;
+}
+.glyphicon-custom {
+	font-size: 24px;
+}
+.nav-container {
+	max-width: 1110px;
+	width: 1140px;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: row;
+	flex-direction: row;
+	-webkit-justify-content: flex-end;
+	justify-content: flex-end;
+	margin: 0 auto;
+}
+.dropdown {
+	height: 24px;;
+}
+.navbar {
+	margin-bottom: 0;
+}
+.blog-title-row h1 {
+	margin-top: 40px;
+	margin-bottom: 45px;
+}
+.dropdown-menu {
+	left: -137px;
+}
+.dropdown a:hover .glyphicon,
+.dropdown a:focus .glyphicon {
+	color: white;
+}
+.footer {
+	background-color: #04324f;
+}
+.footer-row {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.footer-text {
+	font-size: 16px;
+	color: white;
+}
+.bottom-link {
+	color: #e52650;
+	text-decoration: underline;
+}
+.footer-container {
+	padding: 0 50px;
+}
+.pagination-row {
+	justify-content: center;
+	margin-bottom: 70px;
+}
+.thumbnail {
+	border: none;
+}
+.thumbnail .caption {
+	text-align: left;
+	padding: 3px 0;
+}
+.thumbnail-title {
+	color: #04324f;
+	font-size: 25px;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+}
+.thumbnail-paragraph {
+	color: #c8c8c8;
+	font-size: 17px;
+	font-family: 'Lato', sans-serif;
+}
+.blog-title {
+	font-size: 55px;
+	font-family: 'Merriweather', serif;
+	color: #04324f;
+	font-weight: bold;
+}
+.blog-title-row {
+	align-items: center;
+	justify-content: center;
+}
+.blog-post-title {
+	font-size: 35px;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+}
+.blog-post-title-row {
+	margin-bottom: 30px;
+}
+.subtitle {
+	padding-left: 0;
+	color: #a8a8a8;
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+}
+.post-picture {
+	height: auto;
+	max-width: 1140px;
+}
+.post-text-row p {
+	margin-bottom: 45px;
+	font-size: 18px;
+	color: #a8a8a8;
+	line-height: 30px;
+	display: block;
+	width: 100%;
+	text-indent: 50px;
+}
+.footer {
+	position: absolute;
+	bottom: 0;
+	height: 222px;
+	width: 100%;
+}
+ul.pagination li.active span {
+	background-color: #04324f;
+}
+.top-offset {
+	margin-top: 100px;
+}
+.user-name {
+	color: white;
+	position: relative;
+	left: -25px;
+}
+.thumbnail img {
+	height: 190px;
+	width: 100%;
+}
+table.table.table-sm tbody tr td {
+	vertical-align: middle;
+}
+.small-img {
+	max-width: 200px;
+	height: auto;
+}
+.image-form-group div {
+	padding: 0;
+}
